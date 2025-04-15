@@ -22,6 +22,24 @@ dogs = {
         'fun_fact': 'Jasper knows that cookie means food!',
         # Change this to the path of your image file for Jasper
         'image_path': 'static/Jasper.jpeg'
+    },
+    'frankie': {
+        'name': 'Frankie',
+        'breed': 'Mini Dachshund',
+        'age': '1000 years old also all knowing',
+        'description': 'Frankie loves to attack people with kisses!',
+        'fun_fact': 'Frankie can actually clean your lips by attacking you!',
+        # Change this to the path of your image file for Frankie
+        'image_path': 'static/Frankie.jpeg'
+    },
+    'lula': {
+        'name': 'Lula',
+        'breed': 'Labradoodle',
+        'age': '7 years old',
+        'description': 'Lula is a gentle giant and very chill',
+        'fun_fact': 'Lula can sit when you give her a treat!',
+        # Change this to the path of your image file for Lula
+        'image_path': 'static/Lula.jpeg'
     }
 }
 
